@@ -6,5 +6,5 @@
 
 
 ## :tada: Running the project
-*git-compose build*
-*git-compose up*
+*git-compose build ,
+ git-compose up*
