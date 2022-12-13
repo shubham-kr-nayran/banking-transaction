@@ -2,7 +2,7 @@
 *Banking_Transaction*
 
 ## :loop: Workflow
-![Workflow](https://user-images.githubusercontent.com/118654780/207441346-cf42ca6c-d048-4728-a55f-83b158ca69d0.png)
+![Workflow 1](https://user-images.githubusercontent.com/118654780/207443829-c6a2bccf-3c16-44af-96f3-b4a96dd34ce1.png)
 
 
 ## :tada: Running the project
