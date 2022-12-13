@@ -2,7 +2,8 @@
 *Banking_Transaction*
 
 ## :loop: Workflow
-*![Alt text](C:\Users\SS172\Desktop\project\Banking\images\workflow.png "workflow")*
+![Workflow](https://user-images.githubusercontent.com/118654780/207441346-cf42ca6c-d048-4728-a55f-83b158ca69d0.png)
+
 
 ## :tada: Running the project
 *git-compose build*
